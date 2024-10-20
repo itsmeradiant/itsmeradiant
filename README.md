@@ -1,9 +1,11 @@
 <h2> Hi, I'm Anshul aka rad1ant! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=rad1antc0d3&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/rad1antc0d3)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C811%20hrs%2054%20mins-blue)
 [![Twitter: 0xRad1ant](https://img.shields.io/twitter/follow/0xRad1ant?style=social)](https://twitter.com/0xRad1ant)
 [![Linkedin: 0xRad1ant](https://img.shields.io/badge/-0xRad1ant-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/0xRad1ant/)](https://www.linkedin.com/in/0xRad1ant/)
 [![GitHub 0xRad1ant](https://img.shields.io/github/followers/0xRad1ant?label=follow&style=social)](https://github.com/0xRad1ant) 
+
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
@@ -63,6 +65,10 @@ const rad1ant = {
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="25" height="25" />
 </p>
 
+<br>
+
+**🐱 My Wakatime Data** 
+
 <!--START_SECTION:waka-->
 
 ```txt
@@ -74,6 +80,8 @@ HTML       8 mins          █░░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
+<br>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
