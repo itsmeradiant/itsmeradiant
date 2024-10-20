@@ -63,9 +63,7 @@ const rad1ant = {
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="25" height="25" />
 </p>
 
-<!--START_SECTION:waka--> <!--END_SECTION:waka-->
-
-<!--START_SECTION:waka--> 
+<!--START_SECTION:waka-->
 
 ```txt
 Bash       2 hrs 3 mins    ████████████████░░░░░░░░░   63.42 %
