@@ -2,8 +2,8 @@ name: Update README with WakaTime stats
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Runs every hour (adjust the schedule as needed)
-  workflow_dispatch:  # Allow manual trigger
+    - cron: '0 * * * *' 
+  workflow_dispatch:  
 
 jobs:
   update-readme:
@@ -18,8 +18,12 @@ jobs:
 
       - name: Update README
         run: |
-          sed -i '/<!--START_SECTION:waka-->/,<!--END_SECTION:waka-->/d' README.md
+
+          sed -i '/<!--START_SECTION:waka-->/,/<\!--END_SECTION:waka-->/d' README.md
+          # Add new waka stats after the start marker
+          echo '<!--START_SECTION:waka-->' >> README.md
           cat waka_stats.md >> README.md
+          echo '<!--END_SECTION:waka-->' >> README.md
 
       - name: Commit changes
         run: |
