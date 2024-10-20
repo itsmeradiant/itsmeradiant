@@ -1,0 +1,30 @@
+name: Update README with WakaTime stats
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # Runs every hour (adjust the schedule as needed)
+  workflow_dispatch:  # Allow manual trigger
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Fetch WakaTime Stats
+        uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+
+      - name: Update README
+        run: |
+          sed -i '/<!--START_SECTION:waka-->/,<!--END_SECTION:waka-->/d' README.md
+          cat waka_stats.md >> README.md
+
+      - name: Commit changes
+        run: |
+          git config --local user.name "GitHub Actions"
+          git config --local user.email "actions@github.com"
+          git add README.md
+          git commit -m "Updated WakaTime stats"
+          git push
