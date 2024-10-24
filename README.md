@@ -21,8 +21,11 @@
 <br>
 
 <p align="left"> 
-  <img src="https://tryhackme-badges.s3.amazonaws.com/0xRad1ant.png" alt="TryHackMe" />
+  <a href="https://tryhackme.com/r/p/0xRad1ant">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/0xRad1ant.png" alt="TryHackMe" />
+  </a>
 </p>
+
 
 <br>
 <br>
