@@ -1,34 +1,24 @@
-name: Update README with WakaTime stats
+name: Waka Readme
 
 on:
+  workflow_dispatch:
   schedule:
-    - cron: '0 * * * *' 
-  workflow_dispatch:  
+    - cron: "0 * * * *"
 
 jobs:
   update-readme:
+    name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-
-      - name: Fetch WakaTime Stats
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+      - name: Update Wakatime Stats in README
         uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-
-      - name: Update README
-        run: |
-
-          sed -i '/<!--START_SECTION:waka-->/,/<\!--END_SECTION:waka-->/d' README.md
-          # Add new waka stats after the start marker
-          echo '<!--START_SECTION:waka-->' >> README.md
-          cat waka_stats.md >> README.md
-          echo '<!--END_SECTION:waka-->' >> README.md
-
-      - name: Commit changes
-        run: |
-          git config --local user.name "GitHub Actions"
-          git config --local user.email "actions@github.com"
-          git add README.md
-          git commit -m "Updated WakaTime stats"
-          git push
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+          COMMITTER_NAME: "0xRad1ant"
+          COMMITTER_EMAIL: "95236614+0xRad1ant@users.noreply.github.com"
+          AUTHOR_EMAIL: "95236614+0xRad1ant@users.noreply.github.com"
+          AUTHOR_NAME: "0xRad1ant"
+          COMMIT_MESSAGE: "Updated Readme with Dev Metrics"
