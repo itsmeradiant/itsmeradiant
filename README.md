@@ -94,10 +94,7 @@ const rad1ant = {
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   26 mins         █████████████████████▒░░░   85.30 %
-YAML       3 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.27 %
-Bash       0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
-Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
