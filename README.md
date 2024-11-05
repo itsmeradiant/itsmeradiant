@@ -94,7 +94,8 @@ const rad1ant = {
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+XML    6 mins          █████████████████████████   99.95 %
+YAML   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
