@@ -94,11 +94,7 @@ const rad1ant = {
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   1 hr 7 mins     ██████████████▒░░░░░░░░░░   56.85 %
-CSS          34 mins         ███████░░░░░░░░░░░░░░░░░░   28.62 %
-JSON         8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.00 %
-HTML         5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 %
-YAML         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
