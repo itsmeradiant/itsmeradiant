@@ -1,28 +1,30 @@
-<h2> Hi, I'm Anshul aka rad1ant! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Anshul aka radiant! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=rad1antc0d3&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/rad1antc0d3)
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C811%20hrs%2054%20mins-blue)
-[![Twitter: 0xRad1ant](https://img.shields.io/twitter/follow/0xRad1ant?style=social)](https://twitter.com/0xRad1ant)
-[![Linkedin: 0xRad1ant](https://img.shields.io/badge/-0xRad1ant-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/0xRad1ant/)](https://www.linkedin.com/in/0xRad1ant/)
-[![GitHub 0xRad1ant](https://img.shields.io/github/followers/0xRad1ant?label=follow&style=social)](https://github.com/0xRad1ant) 
+[![Twitter: itsmeradiant](https://img.shields.io/twitter/follow/itsmeradiant?style=social)](https://twitter.com/itsmeradiant)
+[![Linkedin: itsmeradiant](https://img.shields.io/badge/-itsmeradiant-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/itsmeradiant/)](https://www.linkedin.com/in/itsmeradiant/)
+[![GitHub itsmeradiant](https://img.shields.io/github/followers/itsmeradiant?label=follow&style=social)](https://github.com/itsmeradiant)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
 <img width="50%" align="right" alt="Robot GIF" src="./Assets/robot.gif" />
 
-- 👨🏽‍💻 I’m currently working on personal projects;
-- 🌱 I’m currently learning for the CEH Practical;
-- 💬 Ask me about anything, I am happy to help;
-- ⚡️ I use ARCH btw;
-- 📫 How to reach me: hi@x0r.xyz;
+- Focused on Red Team tactics and offensive security workflows;  
+- Exploring bug bounty methodologies and practical web exploitation;  
+- Open to discussions around security automation, OSINT, and tooling; 
+- Primary environment: Arch Linux (for better or worse);  
+- Contact: hi@x0r.xyz;
+
 
 <br>
 <br>
 
 <p align="left"> 
-  <a href="https://tryhackme.com/r/p/0xRad1ant">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/0xRad1ant.png" alt="TryHackMe" />
+  <a href="https://tryhackme.com/r/p/itsmeradiant">
+    <!-- <img src="https://tryhackme-badges.s3.amazonaws.com/0xRad1ant.png" alt="TryHackMe" /> -->
+    <img src="https://tryhackme-badges.s3.amazonaws.com/itsmeradiant.png" alt="TryHackMe_Badge" />
   </a>
 </p>
 
