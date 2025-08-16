@@ -2,7 +2,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=rad1antc0d3&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/rad1antc0d3)
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C811%20hrs%2054%20mins-blue)
-[![Twitter: itsmeradiant](https://img.shields.io/twitter/follow/itsmeradiant?style=social)](https://twitter.com/itsmeradiant)
+[![Twitter: itsmeradiant](https://img.shields.io/twitter/follow/itsmerad1ant?style=social)](https://twitter.com/itsmerad1ant)
 [![Linkedin: itsmeradiant](https://img.shields.io/badge/-itsmeradiant-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/itsmeradiant/)](https://www.linkedin.com/in/itsmeradiant/)
 [![GitHub itsmeradiant](https://img.shields.io/github/followers/itsmeradiant?label=follow&style=social)](https://github.com/itsmeradiant)
 
