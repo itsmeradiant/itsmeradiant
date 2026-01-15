@@ -96,11 +96,11 @@ const rad1ant = {
 <!--START_SECTION:waka-->
 
 ```txt
-Python                     2 hrs 11 mins   ███████▓░░░░░░░░░░░░░░░░░   30.35 %
-Markdown                   1 hr 25 mins    █████░░░░░░░░░░░░░░░░░░░░   19.84 %
-Bash                       53 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.45 %
-Nginx configuration file   45 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.58 %
-YAML                       29 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.83 %
+Python                     2 hrs 45 mins   ████████▓░░░░░░░░░░░░░░░░   34.02 %
+Markdown                   1 hr 45 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.60 %
+Bash                       53 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.09 %
+Nginx configuration file   45 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.42 %
+YAML                       29 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.09 %
 ```
 
 <!--END_SECTION:waka-->
