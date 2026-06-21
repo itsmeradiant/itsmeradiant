@@ -96,8 +96,8 @@ const rad1ant = {
 <!--START_SECTION:waka-->
 
 ```txt
-Bash    16 mins               █████████████████▓░░░░░░░   70.60 %
-Other   6 mins                ███████▒░░░░░░░░░░░░░░░░░   29.40 %
+Bash    16 mins               ██████████████▓░░░░░░░░░░   58.69 %
+Other   11 mins               ██████████▒░░░░░░░░░░░░░░   41.31 %
 ```
 
 <!--END_SECTION:waka-->
