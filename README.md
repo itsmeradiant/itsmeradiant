@@ -96,11 +96,11 @@ const rad1ant = {
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown                   6 hrs 31 mins         ███████▒░░░░░░░░░░░░░░░░░   28.99 %
-TypeScript                 4 hrs 17 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.03 %
-Other                      3 hrs 20 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.84 %
-Bash                       2 hrs 21 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.46 %
-YAML                       1 hr 15 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
+Markdown                   7 hrs 28 mins         ████████░░░░░░░░░░░░░░░░░   32.12 %
+TypeScript                 6 hrs 24 mins         ███████░░░░░░░░░░░░░░░░░░   27.54 %
+Bash                       2 hrs 12 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.52 %
+Other                      2 hrs 8 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.19 %
+YAML                       1 hr 15 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
 ```
 
 <!--END_SECTION:waka-->
